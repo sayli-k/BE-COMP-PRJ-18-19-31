@@ -1,1 +1,1 @@
-
+Detection of infectious diseases
